@@ -1,0 +1,20 @@
+[
+	{
+		"Name": "Gerard Lovinsky",
+		"Email": "gl@dreadhead.edu",
+		"Phone": "144-251-2277",
+		"Address": "0 Carioca Plaza"
+	},
+	{
+		"Name": "Keely De Ferraris",
+		"Email": "kdfloxsumc@apache.org",
+		"Phone": "357-702-4464",
+		"Address": "29285 Fremont Avenue"
+	},
+	{
+		"Name": "Mora Constantine",
+		"Email": "mconstantinea@examiner.com",
+		"Phone": "994-497-0871",
+		"Address": "2843 Melrose Road"
+	}
+]
